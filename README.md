@@ -39,7 +39,7 @@ Depois, abra o Vim e rode:
 
 ---
 
-## 📄 Configuração do Vim (init.vim)
+## 📄 Configuração do Vim (.vimrc)
 
 ```vim
 " ----------------------------
