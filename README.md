@@ -1,5 +1,5 @@
 
-# 💻 Dotfiles e Configs do Arthur
+# 💻 Meus Dotfiles e Configs
 
 Repositório com todas as minhas configurações pessoais:
 
